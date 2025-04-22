@@ -1,6 +1,6 @@
 # Blog Post Generator
 
-This project is a Python-based workflow for generating high-quality blog posts on a given topic. It uses the phi library to search for relevant articles and generate a blog post based on those articles.
+This project is a Python-based workflow for generating high-quality blog posts on a given topic. It uses the phidata library & Agentic AI to search for relevant articles and generate a blog post based on those articles.
 
 ## Features
 * Search for Articles: Uses DuckDuckGo to search for articles on a given topic.
